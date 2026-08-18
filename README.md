@@ -7,6 +7,7 @@ I am a passionate IT student at Xavier University - Ateneo de Cagayan, driven by
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at XU.
 - 🌱 I’m currently learning Full Stack Web Development and API creation.
 - 💬 Ask me about anything! I like conversations.
+I also like roller coasters
 - 📫 How to reach me: <20230027391@my.xu.edu.ph>
 
 ## 💻 Tech Stack
@@ -23,3 +24,7 @@ I am a passionate IT student at Xavier University - Ateneo de Cagayan, driven by
 - 🔭 I’m currently working on my final API project.
 
 Thanks for stopping by!
+
+
+
+made you look.
